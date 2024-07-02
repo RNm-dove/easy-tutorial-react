@@ -1,2 +1,2 @@
-dist/
-node_modules/
+# dist/ not ignore for test
+/node_modules
